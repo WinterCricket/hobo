@@ -1,0 +1,35 @@
+body {
+	background-image: url("roadrain.jpg");
+	background-size: cover;
+	background-position: center;
+	font-family: Lato;
+	color: #FFF;
+}
+
+h1, h3 {
+	/*color:#FDDD6D;*/
+}
+
+#content {
+	text-align: center;
+	padding-top: 25%;
+}
+#sleep {
+	background-color: #B16149;
+}
+
+.btn-default {
+    /* color: #333; */
+    color: #FDDD6D;
+    background-color: #fff;
+    /* border-color: #ccc; */
+    border-color: #FDDD6D;
+}
+
+html {
+	height: 100%;
+}
+ h1 {
+ 	font-weight: 700;
+ 	font-size: 5em;
+ }
